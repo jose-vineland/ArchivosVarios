@@ -1,0 +1,25 @@
+{
+  "scanners": [
+    {
+      "AxisOfRotation": "C:\\Users\\chris.mohr\\Desktop\\scanner\\axis_of_rotation",
+      "CameraCalibration": "C:\\Users\\chris.mohr\\Desktop\\scanner\\camera_calibration",
+      "CameraCheck": "",
+	  "CameraPoseEstimation": "C:\\Users\\chris.mohr\\Desktop\\scanner\\plane_calibration\\plane5\\line_segment0",
+      "CameraPoseReference": "C:\\Users\\chris.mohr\\Desktop\\scanner\\camera_pose_reference",
+      "FrameSync": "",
+	  "PlaneCalibration": "C:\\Users\\chris.mohr\\Desktop\\scanner\\plane_calibration",
+      "PlaneReference": "C:\\Users\\chris.mohr\\Desktop\\scanner\\axis_of_rotation",
+	  "Projector": "",
+      "Runtime": "C:\\Users\\chris.mohr\\Desktop\\scanner\\runtime"
+    },
+    {
+      "AxisOfRotation": "",
+      "CameraCalibration": "",
+      "CameraPoseEstimation": "",
+      "CameraPoseReference": "",
+      "PlaneCalibration": "",
+      "PlaneReference": "",
+      "Runtime": ""
+    }
+  ]
+}
